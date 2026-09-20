@@ -2,5 +2,5 @@
   "name": "Yuda Grand Prix - basic image",
   "description": "A retro-style car racing game where you dodge traffic to get the highest score. Built with React, TypeScript, and Tailwind CSS.",
   "requestFramePermissions": [],
-  "majorCapabilities": []
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
